@@ -10,8 +10,8 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=RMX1971
-device.name2=RMX1971CN
+device.name1=RMX1921
+device.name2=RMX1921CN
 '; } # end properties
 
 
