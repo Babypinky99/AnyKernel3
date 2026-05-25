@@ -4,14 +4,14 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=xxKhaenriah for r5p by @D_ai_n
+kernel.string=REMUX By HYPER
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=RMX1971
-device.name2=RMX1971CN
+device.name1=RMX1851
+device.name2=RMX1851CN
 '; } # end properties
 
 
